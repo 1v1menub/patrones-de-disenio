@@ -6,4 +6,3 @@
 
 vehiculo builder1(llantas l, motor m, chasis c, int tv);
 
-void Builder();
