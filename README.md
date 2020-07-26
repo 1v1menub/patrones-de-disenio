@@ -1,4 +1,4 @@
 # patrones-de-disenio
 Ignacio Rubio Montiel
   
-Descomente las funciones con los nombres de los patrones en el main para ejecutarlas
+Para correr cada directorio entrar y hacer el build con el cmakefile que esta dentro de ese direcotrio.
